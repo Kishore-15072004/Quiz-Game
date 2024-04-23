@@ -26,7 +26,7 @@ continueBtn.onclick=()=>{
 
     showQuestions(0);
     questionCounter(1);
-    headScore();
+    //headScore();
 }
 
 tryAgainBtn.onclick=()=>{
@@ -49,7 +49,7 @@ tryAgainBtn.onclick=()=>{
     showQuestions(questionCount);
     questionCounter(questionNumb);
 
-    headScore();
+    //headScore();
 }
 let questionCount=0;
 let questionNumb=1;
