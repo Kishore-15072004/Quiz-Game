@@ -173,7 +173,7 @@ main,.service-body,.about-body,.contact-body{
 
 .quiz-section{
     position: relative;
-    left: -50%;
+    left: -90%;
     /* left: 0; */
     width: 100%;
     background: rgb(11, 1, 50);
